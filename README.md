@@ -1,2 +1,2 @@
 # DoctorAppointmentManagement
-Patient can appoint a docot
+Patient can appoint a doctor
